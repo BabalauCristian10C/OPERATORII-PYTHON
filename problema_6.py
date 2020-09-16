@@ -30,3 +30,5 @@ if  n < 10000:
     print(f'Suma tuturor cifrelor numarului {n} = {calcule(n)}')
     print(f'Pen ultima cifra a lui {n} = {penultcif}')
     print(f'Rasturnatul lui {n} = {intoarcere(n)}')
+else:
+    pass
